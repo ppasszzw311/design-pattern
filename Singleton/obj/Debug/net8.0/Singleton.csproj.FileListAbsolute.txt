@@ -1,0 +1,15 @@
+/Users/makfichen14/Project/design-pattern/Singleton/bin/Debug/net8.0/Singleton
+/Users/makfichen14/Project/design-pattern/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/Users/makfichen14/Project/design-pattern/Singleton/bin/Debug/net8.0/Singleton.runtimeconfig.json
+/Users/makfichen14/Project/design-pattern/Singleton/bin/Debug/net8.0/Singleton.dll
+/Users/makfichen14/Project/design-pattern/Singleton/bin/Debug/net8.0/Singleton.pdb
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.sourcelink.json
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.dll
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.pdb
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/Singleton.genruntimeconfig.cache
+/Users/makfichen14/Project/design-pattern/Singleton/obj/Debug/net8.0/ref/Singleton.dll
