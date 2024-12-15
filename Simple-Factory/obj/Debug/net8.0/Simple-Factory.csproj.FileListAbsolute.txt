@@ -1,0 +1,14 @@
+/Users/makfichen14/Project/design-pattern/Simple-Factory/bin/Debug/net8.0/Simple-Factory
+/Users/makfichen14/Project/design-pattern/Simple-Factory/bin/Debug/net8.0/Simple-Factory.deps.json
+/Users/makfichen14/Project/design-pattern/Simple-Factory/bin/Debug/net8.0/Simple-Factory.runtimeconfig.json
+/Users/makfichen14/Project/design-pattern/Simple-Factory/bin/Debug/net8.0/Simple-Factory.dll
+/Users/makfichen14/Project/design-pattern/Simple-Factory/bin/Debug/net8.0/Simple-Factory.pdb
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.AssemblyInfoInputs.cache
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.AssemblyInfo.cs
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.csproj.CoreCompileInputs.cache
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.dll
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/refint/Simple-Factory.dll
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.pdb
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/Simple-Factory.genruntimeconfig.cache
+/Users/makfichen14/Project/design-pattern/Simple-Factory/obj/Debug/net8.0/ref/Simple-Factory.dll
